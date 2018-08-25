@@ -1,3 +1,6 @@
-http://127.0.0.1:5000/employees
-http://127.0.0.1:5000/tracks
-http://127.0.0.1:5000/employees/8
+Example databse: http://www.sqlitetutorial.net/sqlite-sample-database/
+
+Requests examples:
+  http://127.0.0.1:5000/employees
+  http://127.0.0.1:5000/tracks
+  http://127.0.0.1:5000/employees/8
